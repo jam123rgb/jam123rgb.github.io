@@ -5,27 +5,26 @@
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
++ name: jamal 
++ last name : bakhtiari
++ Date of birth : 1984/jan/17
 + I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
++ location : qorveh , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
 + Programming
-+ playing games on best leagues
++ py-C#-js-reactjs
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
++ Diploma : nabi_akram school
+_ 2001
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2006,payam Noor University of Hamadan 
 
 ### Favorites
 
@@ -40,7 +39,7 @@ _ 2018,payam Noor University of Rey
 ---
 + I am working in Mofid Brokerage .
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](https://web.telegram.org/#/im?p=@jamal43)
 
 
 --- 
