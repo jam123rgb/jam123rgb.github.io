@@ -4,7 +4,7 @@ body{
 }
 </style>
 ### جمال بختیاری
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/files/fs2k_img_20200528_005117.jpg" target="_blank"><img src="https://uupload.ir/files/fs2k_img_20200528_005117.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
