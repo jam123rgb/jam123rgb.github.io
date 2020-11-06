@@ -1,6 +1,6 @@
 
 ### Mir Jamal bakhtiari
-<a href="http://uupload.ir/view/https://uupload.ir/files/y1ps_index.jpeg" target="_blank"><img src="http://uupload.ir/files/https://uupload.ir/files/y1ps_index.jpeg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/files/ucbu_img_20200528_005117.jpg" target="_blank"><img src="https://uupload.ir/files/ucbu_img_20200528_005117.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
